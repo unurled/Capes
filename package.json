@@ -1,0 +1,14 @@
+{
+  "name": "cape_perso",
+  "version": "1.0.0",
+  "description": "get your own cape using optifine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cape"
+  ],
+  "author": "unurled",
+  "license": "ISC"
+}
