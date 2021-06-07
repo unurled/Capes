@@ -30,7 +30,7 @@ add this line at the end of the file
 
 where IP_AddRESS is the ip of the server ( you must have the two of them on separated computer)
 
-and [TAB] the key with to arrow on your keyboard
+and [TAB] the key with two arrow on your keyboard
 
 ## How to add a user with cape ?
 
