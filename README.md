@@ -39,3 +39,9 @@ Add the desired image in the folder capes/
 then rename the image to the name of the player 
 
 ⚠️ the name is case sensitive.
+
+Example:
+
+for the player unurled, the image file must be named unurled.png/jpg/any image type file (not gif)
+
+and be placed in capes/unurled.(png) (you must create the folder capes).
